@@ -1,0 +1,15 @@
+{
+    "host": "192.168.1.17",
+    "port": "5555",
+    "max_connections": 5,
+
+    "main_server": {
+        "host": "192.168.1.17",
+        "port": "7777"
+    },
+
+    "header": 128,
+    "format": "utf-8",
+
+    "verbose": true
+}
