@@ -3,6 +3,13 @@
     "port": "5555",
     "max_connections": 5,
 
+    "server_settings": {
+        "id": "vg6izkKi7dh16KgwTKGhhVpS1s3bQmQnG0wlUXnl",
+        "name": "Test ahaha j'adore les sushis",
+        "description": "Server for chat",
+        "max_clients": 5
+    },
+
     "main_server": {
         "host": "192.168.1.17",
         "port": "7777"
